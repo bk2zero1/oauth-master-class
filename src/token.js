@@ -1,6 +1,6 @@
 window.onload = () => {
   YaSendSuggestToken(
-   'https://oauth-master-class-seven.vercel.app', {
+   'https://oauth-master-class-theta-ten.vercel.app', {
       flag: true
    }
 )
