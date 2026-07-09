@@ -4,7 +4,7 @@ window.onload = () => {
       {
         client_id: "0ab74019e8b84a7cb3d4e05d0f101130",
         response_type: "token",
-        redirect_uri: "https://oauth-master-class-theta-ten.vercel.app,
+        redirect_uri: "https://oauth-master-class-theta-ten.vercel.app",
       },
       "https://oauth-master-class-theta-ten.vercel.app",
       {
