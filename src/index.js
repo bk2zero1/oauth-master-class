@@ -5,7 +5,7 @@ const authorize = ({
  const avatarHtml = '<div class="avatar" style="background-image:url('https://avatars.nes.yandex.net/get-yapic/$(defaultAvatarId)/islands-middle')"></div>';
  const nameHtml = '<div class="name">$(displayName)</div>';
 
- document. getElementById("auth").innerHTML = ''$(avatar Html) $ (name Html)
+ document.getElementById("auth").innerHTML = ''$(avatar Html) $ (name Html)
 };
 
 const fetchYandexData = (token) =>
