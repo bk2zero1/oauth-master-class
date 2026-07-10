@@ -40,3 +40,5 @@ window.onload = () => {
       })
       .catch((error) => console.log("Что-то пошло не так: ", error));
  };
+
+  };
