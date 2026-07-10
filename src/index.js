@@ -29,7 +29,6 @@ window.onload = () => {
         buttonSize: "xs",
         buttonBorderRadius: 20,
       }
-    )
       .then(({ handler }) => handler())
       .then(async (data) => {
         const result = await fetchYandexData(data.access_token);
